@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ex.tests.ScreenTests" tests="23" skipped="0" failures="0" errors="0" timestamp="2021-04-28T16:04:09" hostname="sams-MacBook-Pro.local" time="7.954">
+  <properties/>
+  <testcase name="test_viewTransactionScreen" classname="com.ex.tests.ScreenTests" time="7.595"/>
+  <testcase name="test_viewAllUsersScreen" classname="com.ex.tests.ScreenTests" time="0.002"/>
+  <testcase name="test_viewAllUserScreenDeleteUI" classname="com.ex.tests.ScreenTests" time="0.002"/>
+  <testcase name="test_makeScreenInDepositScreen" classname="com.ex.tests.ScreenTests" time="0.006"/>
+  <testcase name="test_viewAllUserScreenMakeSelection" classname="com.ex.tests.ScreenTests" time="0.005"/>
+  <testcase name="test_employeeLoginScreenLogin" classname="com.ex.tests.ScreenTests" time="0.002"/>
+  <testcase name="test_logout" classname="com.ex.tests.ScreenTests" time="0.004"/>
+  <testcase name="test_welcomeScreen" classname="com.ex.tests.ScreenTests" time="0.004"/>
+  <testcase name="test_transferScreen" classname="com.ex.tests.ScreenTests" time="0.003"/>
+  <testcase name="test_userHomeScreen" classname="com.ex.tests.ScreenTests" time="0.002"/>
+  <testcase name="test_makeScreenInEmployeeHomeScreen" classname="com.ex.tests.ScreenTests" time="0.001"/>
+  <testcase name="test_viewBalanceScreenMakeSelection" classname="com.ex.tests.ScreenTests" time="0.003"/>
+  <testcase name="test_makeSelectionnEmployeeHomeScreen" classname="com.ex.tests.ScreenTests" time="0.004"/>
+  <testcase name="test_userHomeScreenMakeSelection" classname="com.ex.tests.ScreenTests" time="0.003"/>
+  <testcase name="test_welcomeScreenMakeScreen" classname="com.ex.tests.ScreenTests" time="0.033"/>
+  <testcase name="test_openUserAccountScreen" classname="com.ex.tests.ScreenTests" time="0.016"/>
+  <testcase name="test_userHomeScreenLogout" classname="com.ex.tests.ScreenTests" time="0.052"/>
+  <testcase name="test_withdrawScreen" classname="com.ex.tests.ScreenTests" time="0.011"/>
+  <testcase name="test_userLoginScreenLogin" classname="com.ex.tests.ScreenTests" time="0.003"/>
+  <testcase name="test_viewBalanceScreen" classname="com.ex.tests.ScreenTests" time="0.003"/>
+  <testcase name="test_employeeLoginScreen" classname="com.ex.tests.ScreenTests" time="0.105"/>
+  <testcase name="test_userLoginScreen" classname="com.ex.tests.ScreenTests" time="0.004"/>
+  <testcase name="test_viewTransactionScreenMakeSelection" classname="com.ex.tests.ScreenTests" time="0.015"/>
+  <system-out><![CDATA[2021-04-28 09:04:15,923 Test worker ERROR Unable to locate appender "LogToConsole" for logger config "com.ex"
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

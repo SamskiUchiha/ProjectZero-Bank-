@@ -1,0 +1,11 @@
+[
+  {
+    "username": "samlaitha",
+    "password": "sam1231",
+    "accountNumber": 0,
+    "accounts": {
+      "balance": 123123.12,
+      "accType": "checking"
+    }
+  }
+]

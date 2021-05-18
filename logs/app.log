@@ -1,0 +1,8 @@
+2021-05-17 17:52:08,538 INFO c.e.BankApp [main] Initializing Bank Application
+2021-05-17 17:52:17,013 INFO c.e.s.EmployeeLoginScreen [main] Admin logged in admin
+2021-05-17 17:52:30,336 INFO c.e.s.OpenUserAccountScreen [main] Account a created.
+2021-05-17 17:52:30,337 INFO c.e.s.OpenUserAccountScreen [main] Account a created.
+2021-05-17 17:52:35,078 INFO c.e.s.ViewAllUsersScreen [main] Displaying users: joe 
+2021-05-17 17:52:35,079 INFO c.e.s.ViewAllUsersScreen [main] Displaying users: slaitha 
+2021-05-17 17:52:35,079 INFO c.e.s.ViewAllUsersScreen [main] Displaying users: user1 
+2021-05-17 17:52:35,079 INFO c.e.s.ViewAllUsersScreen [main] Displaying users: a 

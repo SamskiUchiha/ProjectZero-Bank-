@@ -1,0 +1,8 @@
+com/ex/tests/RepoTests.java
+ com.ex.tests.RepoTests
+com/ex/tests/ServiceTests.java
+ com.ex.tests.ServiceTests
+com/ex/tests/ScreenTests.java
+ com.ex.tests.ScreenTests
+com/ex/tests/AllOtherMethodsTests.java
+ com.ex.tests.AllOtherMethodsTests
